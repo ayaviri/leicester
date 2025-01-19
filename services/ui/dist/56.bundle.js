@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{810:function(o,e){o.exports={otpUi:{EndpointsOverlay:{coordinates:"{lat, number, ::.00000}, {lon, number, ::.00000}",forgetHome:"집 설정 삭제",saveAsWork:"직장으로 저장",swapLocation:"{locationType} 위치로 변경",clearLocation:"{locationType} 위치 삭제",saveAsHome:"집으로 저장",forgetWork:"직장 설정 삭제"}}}}}]);

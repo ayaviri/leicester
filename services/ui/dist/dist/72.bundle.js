@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[72],{826:function(o,p){o.exports={otpUi:{FromToLocationPicker:{planATrip:"Запланировать поездку:",from:"Отсюда",to:"Сюда"}}}}}]);

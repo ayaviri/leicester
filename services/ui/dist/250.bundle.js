@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[250],{1002:function(e,p){e.exports={otpUi:{queryParameters:{bikeSpeed:"Sykkelhastighet",walkSpeed:"Ganghastighet"}}}}}]);

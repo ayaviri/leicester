@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{806:function(p,o){p.exports={otpUi:{buildingBlocks:{alert:{expand:"Développer"}}}}}}]);

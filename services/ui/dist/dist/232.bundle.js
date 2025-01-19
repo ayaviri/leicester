@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[232],{984:function(e,i){e.exports={otpUi:{TripDetails:{FareTable:{cash:"Espèces",electronic:"ORCA",regular:"Plein tarif",senior:"Senior",special:"LIFT",youth:"Jeune"}}}}}}]);

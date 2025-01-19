@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[237],{989:function(n,o){n.exports={otpUi:{TripDetails:{FareTable:{cash:"Kontanter"}}}}}}]);

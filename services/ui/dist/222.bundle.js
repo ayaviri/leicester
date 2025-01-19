@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[222],{974:function(e,o){e.exports={otpUi:{TransitVehicleOverlay:{defaultTooltip:"{route}: {duration} siden",routeTitle:"{type} {name}"}}}}}]);

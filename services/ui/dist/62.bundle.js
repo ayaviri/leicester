@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[62],{816:function(o,n){o.exports={otpUi:{EndpointsOverlay:{clearLocation:"{locationType} konumu olarak kaldır",coordinates:"{lat, number, ::.00000}, {lon, number, ::.00000}",forgetHome:"Evi unut",forgetWork:"İşi unut",saveAsHome:"Evi kaydet",saveAsWork:"İşi Kaydet",swapLocation:"{locationType} konumuna değiştir"}}}}}]);

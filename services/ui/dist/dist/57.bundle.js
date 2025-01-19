@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[57],{811:function(e,o){e.exports={otpUi:{EndpointsOverlay:{saveAsWork:"Lagre som arbeid",clearLocation:"Fjern som {locationType}-plassering",saveAsHome:"Lagre som hjem",forgetWork:"Glem arbeid",forgetHome:"Glem hjem"}}}}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[230],{982:function(e,o){e.exports={otpUi:{TransitVehicleOverlay:{defaultTooltip:"{route}： {duration}前",durationWithSeconds:"{hours, plural, =0 {} other {#小時}}{minutes, plural, =0 {{seconds, plural, =0 {#分鐘} other {}}} other {#分鐘}}{seconds, plural, =0 {} other {#秒}}",routeTitle:"{type} {name}",transitLine:"路線"}}}}}]);

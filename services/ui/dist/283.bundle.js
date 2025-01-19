@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[283],{1035:function(o,n){o.exports={otpUi:{FromToLocationPicker:{planATrip:"Magplano ng biyahe:",from:"Mula rito",to:"Papunta rito"}}}}}]);

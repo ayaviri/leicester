@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[300],{1189:function(o,n){n.printMsg=function(){console.log("This is a message from the demo package")}}}]);
