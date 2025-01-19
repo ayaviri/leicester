@@ -4,4 +4,4 @@ A bus transit system + route planning app for Leicester, MA. Built using a custo
 
 ## Running locally
 
-See the documentation to prop up both the [frontend](https://github.com/ayaviri/leicester/blob/main/services/client/README.md) and [backend](https://github.com/ayaviri/leicester/blob/main/services/otp/README.md) services
+See the documentation to prop up both the [frontend](https://github.com/ayaviri/leicester/blob/main/services/ui/README.md) and [backend](https://github.com/ayaviri/leicester/blob/main/services/otp/README.md) services
