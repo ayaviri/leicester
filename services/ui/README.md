@@ -2,12 +2,18 @@
 
 This directory contains the output of the production build of a pre-existing craco UI called [otp-react-redux](https://github.com/opentripplanner/otp-react-redux)
 
+## Requirements
+
+[serve](https://www.npmjs.com/package/serve) is used as the file server
+
+```
+$ npm install -g serve
+```
+
 ## Running locally
 
 ```
-# Any file server can be used here
-$ npm install -g serve
-$ serve -s dist -l 9966
+$ ./dev.sh
 ```
 
 ## Updating the UI
